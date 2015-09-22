@@ -1,0 +1,8 @@
+{
+  "name": "react-sample",
+  "version": "0.0.1",
+  "dependencies": {
+    "react": "*",
+    "underscore": "~1.8.3"
+  }
+}
